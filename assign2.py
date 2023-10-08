@@ -1,0 +1,6 @@
+Firstname=input("Enter your First name")
+Lastname=input("Enter your last name")
+print(Firstname,Lastname,sep='-',end='\t')
+print('\n')
+Name=input("Your name please:")
+print("You are welcome",Name,"to python class")
